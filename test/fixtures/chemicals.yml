@@ -1,0 +1,14 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  chemical_name: MyChemical
+  synonym: MySynonym
+  cas: 123-1234
+  user: one
+  # company: one
+
+two:
+  chemical_name: MyAnotherChemical
+  synonym: MyAnotherSynonym
+  cas: 234-2345
+  user: two
