@@ -5,7 +5,7 @@
 ```
 git clone https://github.com/ojogal/API-for-PheroStock.git
 bundle install
-rails db:setup
+rails db:migrate
 rails s -p 4001 
 ```
 ## Usage
